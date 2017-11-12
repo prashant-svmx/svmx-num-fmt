@@ -1,0 +1,29 @@
+{
+  "name": "svmx-num-fmt",
+  "version": "0.0.1",
+  "description": "Number formatter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-svmx/svmx-num-fmt.git"
+  },
+  "keywords": [
+    "numeric"
+  ],
+  "author": "Prashant Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-svmx/svmx-num-fmt/issues"
+  },
+  "homepage": "https://github.com/prashant-svmx/svmx-num-fmt#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
