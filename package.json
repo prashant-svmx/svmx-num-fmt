@@ -1,6 +1,6 @@
 {
   "name": "svmx-num-fmt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Number formatter",
   "main": "src/index.js",
   "scripts": {
